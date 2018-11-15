@@ -1,0 +1,13 @@
+{
+  "name": "ipc-demo",
+  "version": "1.0.0",
+  "main": "src/main.js",
+  "author": "chrispickford",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^3.0.9"
+  }
+}
